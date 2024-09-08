@@ -1,0 +1,24 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "customer_id",
+            "type": "STRING"
+        },
+        {
+            "name": "FullName",
+            "type": "STRING"
+        },
+        {
+            "name": "NoOfAccounts",
+            "type": "STRING"
+        },
+        {
+            "name": "customer_status",
+            "type": "STRING"
+        },
+        {
+            "name": "Age_Grp",
+            "type": "STRING"
+        }
+    ]
+}
